@@ -5,7 +5,7 @@
 <img align="right" alt="solar-system" title="Solar System" width="600" src="https://i.ibb.co/sJMcjnR/solar-system-5702-512.gif">
 
 
-<p align="left"> <a href="https://twitter.com/its_maneeshk_" target="blank"><img src="https://img.shields.io/twitter/follow/its_maneeshk?logo=twitter&style=for-the-badge" alt="its_maneeshk_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/its_maneeshk_" target="blank"><img src="https://img.shields.io/twitter/follow/its_maneeshk_?logo=twitter&style=for-the-badge" alt="its_maneeshk_" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Flask**
 
