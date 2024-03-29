@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFaw1QPlc3nXg/profile-displaybackgroundimage-shrink_350_1400/0/1706758326991?e=1715817600&v=beta&t=C-jspNaGqJdPaI3FV92Wqs7VFa2B9a4IQ0cLcy1w-FM) -->
-<h1 align="center">Hey Buddy, I'm Manish Kumar Patel</h1>
+<h1 align="center">Hey, This is Manish Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20views&color=0e75b6&style=flat" alt="its-maneeshk" /> </p>
 <h3 align="center">Learning and Exploring</h3>
 <img align="right" alt="solar-system" title="Solar System" width="600" src="https://i.ibb.co/sJMcjnR/solar-system-5702-512.gif">
