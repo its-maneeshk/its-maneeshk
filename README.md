@@ -14,7 +14,8 @@ Hey there! 👋
 Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but nothing beats the thrill of React/TailwindCSS 🔥. Excited to connect and learn together! 
 
 <div align= "center">
-  <img src="https://github.com/its-maneeshk/.assets/blob/f17e573cbfb1954160691e4f5838be0cb64c4add/Vanilla%401x-1.0s-278px-39px.gif" width="300" alt="Your Image Description">
+<!--   <img src="https://github.com/its-maneeshk/.assets/blob/f17e573cbfb1954160691e4f5838be0cb64c4add/Vanilla%401x-1.0s-278px-39px.gif" width="300" alt="Your Image Description"> -->
+  <img src="https://github.com/its-maneeshk/.assets/blob/43acd6ade7108edb2da076ede5709d1f54685491/Manish%20Patel.gif" alt="Your Image Description">
 </div>
 
 
