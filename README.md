@@ -41,8 +41,7 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 <p>(empty) - Live Preview Not Avilable At That Time</p>
 ---
 
-
-More Projects on my [portfolio](https://manishpatel.netlify.app/)
+## More Projects on my [portfolio](https://manishpatel.netlify.app/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-maneeshk&show_icons=true&locale=en&layout=compact" alt="its-maneeshk" /></p>
 
 ## Tech Stack 🧑‍💻
