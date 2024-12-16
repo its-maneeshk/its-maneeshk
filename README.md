@@ -39,6 +39,7 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 ### Note
 <p>🔴 - Live Preview Avilable</p>
 <p>(empty) - Live Preview Not Avilable At That Time</p>
+
 ---
 
 ## More Projects on my [portfolio](https://manishpatel.netlify.app/)
