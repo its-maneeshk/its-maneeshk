@@ -35,6 +35,9 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 | **Project UnderDevelopment**    | 🕸️[Rocksolid - a clone project](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🔴                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git)  |**Project UnderDevelopment**    |
 
 <!--🗼[NFT Site](https://segunajibola.github.io/nft-site/) -->
+### Note
+<p>🔴 - Live Preview Avilable</p>
+<p>(empty) - Live Preview Not Avilable At That Time</p>
 
 
 More Projects on my [portfolio](https://manishpatel.netlify.app/)
