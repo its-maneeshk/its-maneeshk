@@ -26,7 +26,7 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
   <img src="https://github.com/its-maneeshk/.assets/blob/4ca8ba3ff14548a9a6421c5c3eeed862ba7fd376/ReadmeImage.gif" width="300" alt="Your Image Description" style="display: inline-block;>
 </p>-->
 
-### Projects Created Using (live preview avilable) 🪶 (for easy repo visit click me)
+### Projects Created Using (live preview avilable) 🪶 [To visit each repo click me](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
 
 | **HTML/CSS**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
 | ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
