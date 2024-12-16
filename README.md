@@ -26,19 +26,19 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
   <img src="https://github.com/its-maneeshk/.assets/blob/4ca8ba3ff14548a9a6421c5c3eeed862ba7fd376/ReadmeImage.gif" width="300" alt="Your Image Description" style="display: inline-block;>
 </p>-->
 
-### Projects Created Using (live preview avilable) 🪶 [To visit each repo click me](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
+### Projects Created Using (🚀 live preview avilable) 🪶 [📴 To visit each repo click me](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
 
 | **HTML/CSS**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
 | ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
-| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store)          | 🌐[Library Website](https://github.com/its-maneeshk/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/its-maneeshk/CalculatorUsing-Java.git)  | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git)    |
-| [Eclipse - Landing Page](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo)   | 🕸️[Mine Portfolio Website](https://manishpatel.netlify.app/)  | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/its-maneeshk/Java.git)                    |**Project UnderDevelopment**    |
-| **Project UnderDevelopment**    | 🕸️[Rocksolid - a clone project](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🔴                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git)  |**Project UnderDevelopment**    |
+| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store) 📴         | 🌐[Library Website](https://github.com/its-maneeshk/library-Website.git) 📴    | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/its-maneeshk/CalculatorUsing-Java.git) 📴 | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git) 📴   |
+| [Eclipse - Landing Page](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo) 📴  | 🕸️[Mine Portfolio Website](https://manishpatel.netlify.app/) 📴 | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/its-maneeshk/Java.git) 📴                   |**Project UnderDevelopment**    |
+| **Project UnderDevelopment**    | 🕸️[Rocksolid - a clone project](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🚀                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git) 📴 |**Project UnderDevelopment**    |
 
 <!--🗼[NFT Site](https://segunajibola.github.io/nft-site/) -->
 ---
 ### Note
-<p>🔴 - Live Preview Avilable</p>
-<p>(empty) - Live Preview Not Avilable At That Time</p>
+# 🚀 - Live Preview Avilable
+# 📴 - Live Preview Not Avilable At That Time
 
 ---
 
