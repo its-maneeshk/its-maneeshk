@@ -37,8 +37,8 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 <!--🗼[NFT Site](https://segunajibola.github.io/nft-site/) -->
 ---
 ### Note
-# 🚀 - Live Preview Avilable
-# 📴 - Live Preview Not Avilable At That Time
+### 🚀 - Live Preview Avilable
+### 📴 - Live Preview Not Avilable At That Time
 
 ---
 
