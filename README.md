@@ -1,33 +1,46 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20Views&color=8a2be2&style=flat">
+</p>
+
 <div align="center">
 
 # 👋 **Hey, I'm Manish Patel!**  
 ### 🚀 **Full-Stack Developer | 🖥️ UI/UX Enthusiast | 🤖 ML Explorer**  
 
-🌟 Passionate about crafting digital experiences with **React, Tailwind CSS, and Python** while diving into the world of **Machine Learning**.  
+🌟 Passionate about crafting digital experiences with **React**, **Tailwind CSS**, and **Python** while diving into **Machine Learning**.  
 💡 Love solving problems and bringing ideas to life through **clean, scalable code**!  
 
-🔥 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House  
+🔥 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
 
----
+## 
+</div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20Views&color=8a2be2&style=flat">
-</p>
+## 🎯 **Featured Projects**  
+🚀 A collection of my best projects, categorized for easy navigation!  
 
-## 🎯 **Featured Projects**
-🚀 A collection of cool projects I've worked on!  
-📌 [**More Projects Here!**](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
+📌 **Explore all projects here:**  
 
-| 🔥 **Frontend** | 🎯 **Full Stack** | ⚙️ **Backend & DB** |
-|----------------|-----------------|--------------------|
-| 🌐 [Mine Portfolio](https://manishpatel.netlify.app/) 🚀 | 📖 [e-Book Web App](https://github.com/its-maneeshk/e-Book.git) 📴 | 🏨 [Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git) 📴 |
-| 📚 [Library Website](https://github.com/its-maneeshk/library-Website.git) 📴 | 🎨 [Rocksolid Clone](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🚀 | 🎮 [Quiz Game - Java](https://github.com/its-maneeshk/Java.git) 📴 |
-| 🛍️ [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store) 📴 | 🧮 [Calculator - Java](https://github.com/its-maneeshk/CalculatorUsing-Java.git) 📴 | **More in progress... 🚧** |
+<div align="center">
 
-> **🚀** - Live Preview Available  
-> **📴** - Live Preview Not Available  
+<table>
+  <tr>
+    <th>📁 Project Categories</th>
+  </tr>
+  <tr>
+    <td align="center">
+      🌐 <b>Frontend Projects</b> | 🏗️ <b>Full-Stack Projects</b> | ⚙️ <b>Backend & Database</b> | 🚧 <b>More in Progress</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🔗 <b>View Projects</b> >> <kbd><a href="https://github.com/its-maneeshk/its-maneeshk/blob/main/visit_repo.md">Click Here</a></kbd>
+    </td>
+  </tr>
+</table>
 
----
+</div>
+
+##
 
 ## 🚀 **My Favorite Tech Stack**
 ✨ The tools and technologies I work with every day:
@@ -42,31 +55,30 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>  
 
-🌱 **Currently Exploring:**  
+💡 **Currently Exploring:**  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>  
 
----
+##
 
 ## 📊 **GitHub Stats** & 🎱 **Fun Zone!**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" width="55%">
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" width="50%">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" width="97%">
 </div>
 
----
-
+##
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="55%" valign="top">
         <h2>❤️ Let's Build Something Great Together!</h2>
         <p>💡 "The best way to predict the future is to create it."</p>
         <p>🔗 Follow my work: <a href="https://github.com/its-maneeshk">GitHub</a></p>
@@ -86,14 +98,7 @@
   </table>
 </div>
 
----
-
-<p align="right">
-  🔝 <a href="#top">Back to Top</a>
-</p>
-
+##
 <p align="center">
-  Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a>
+  🚀 Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> • <a href="https://manishpatel.netlify.app/">Portfolio</a>
 </p>
-
-</div>
