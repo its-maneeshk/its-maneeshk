@@ -1,98 +1,99 @@
-<div id="top"></div>
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20views&color=8a2be2&style=flat" alt="its-maneeshk" /> 
-  <a href="mailto:maneeshkurmii@gmail.com"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20a%20Mail-dc143c" alt="its-maneeshk" /> </a>
+<div align="center">
+
+# 👋 **Hey, I'm Manish Patel!**  
+### 🚀 **Full-Stack Developer | 🖥️ UI/UX Enthusiast | 🤖 ML Explorer**  
+
+🌟 Passionate about crafting digital experiences with **React, Tailwind CSS, and Python** while diving into the world of **Machine Learning**.  
+💡 Love solving problems and bringing ideas to life through **clean, scalable code**!  
+
+🔥 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House  
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20Views&color=8a2be2&style=flat">
 </p>
 
+## 🎯 **Featured Projects**
+🚀 A collection of cool projects I've worked on!  
+📌 [**More Projects Here!**](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
 
+| 🔥 **Frontend** | 🎯 **Full Stack** | ⚙️ **Backend & DB** |
+|----------------|-----------------|--------------------|
+| 🌐 [Mine Portfolio](https://manishpatel.netlify.app/) 🚀 | 📖 [e-Book Web App](https://github.com/its-maneeshk/e-Book.git) 📴 | 🏨 [Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git) 📴 |
+| 📚 [Library Website](https://github.com/its-maneeshk/library-Website.git) 📴 | 🎨 [Rocksolid Clone](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🚀 | 🎮 [Quiz Game - Java](https://github.com/its-maneeshk/Java.git) 📴 |
+| 🛍️ [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store) 📴 | 🧮 [Calculator - Java](https://github.com/its-maneeshk/CalculatorUsing-Java.git) 📴 | **More in progress... 🚧** |
 
-<a href="https://twitter.com/its_maneeshk/"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-300-1DA1F2?style=for-the-badge&logo=twitter&logoColor=83e22b"></a>
-<a href="https://linkedin.com/in/itsmaneeshk/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=128&color=83e22b"></a>
+> **🚀** - Live Preview Available  
+> **📴** - Live Preview Not Available  
 
-Hey there! 👋 
-### This is Manish Patel 
-Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but nothing beats the thrill of React/TailwindCSS 🔥. Excited to connect and learn together! 
+---
 
-<div align= "center">
-<!--   <img src="https://github.com/its-maneeshk/.assets/blob/f17e573cbfb1954160691e4f5838be0cb64c4add/Vanilla%401x-1.0s-278px-39px.gif" width="300" alt="Your Image Description"> -->
-  <img src="https://github.com/its-maneeshk/.assets/blob/43acd6ade7108edb2da076ede5709d1f54685491/Manish%20Patel.gif" alt="Your Image Description">
+## 🚀 **My Favorite Tech Stack**
+✨ The tools and technologies I work with every day:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>  
+
+🌱 **Currently Exploring:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>  
+
+---
+
+## 📊 **GitHub Stats** & 🎱 **Fun Zone!**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </div>
 
-
-<!-- <p align="left" style="display: inline-block;">
-  <img src="https://github.com/its-maneeshk/.assets/blob/f17e573cbfb1954160691e4f5838be0cb64c4add/Vanilla%401x-1.0s-278px-39px.gif" width="300" alt="Your Image Description" style="display: inline-block;>
-</p>
-<p align="right" style="display: inline-block;">
-  <img src="https://github.com/its-maneeshk/.assets/blob/4ca8ba3ff14548a9a6421c5c3eeed862ba7fd376/ReadmeImage.gif" width="300" alt="Your Image Description" style="display: inline-block;>
-</p>-->
-
-### Projects Created Using (🚀 live preview avilable) 🪶 [📴 To visit each repo click me](https://github.com/its-maneeshk/its-maneeshk/blob/40200fcaf24332382f860846ac86a117cf4f9a48/visit_repo.md)
-
-| **HTML/CSS**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
-| ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
-| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store) 📴         | 🌐[Library Website](https://github.com/its-maneeshk/library-Website.git) 📴    | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/its-maneeshk/CalculatorUsing-Java.git) 📴 | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git) 📴   |
-| [Eclipse - Landing Page](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo) 📴  | 🕸️[Mine Portfolio Website](https://manishpatel.netlify.app/) 🚀 | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/its-maneeshk/Java.git) 📴                   |**Project UnderDevelopment**    |
-| **Project UnderDevelopment**    | 🕸️[Rocksolid - a clone project](https://its-maneeshk.github.io/Rocksolid---a-clone-website-project/) 🚀                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git) 📴 |**Project UnderDevelopment**    |
-
-<!--🗼[NFT Site](https://segunajibola.github.io/nft-site/) -->
----
-### Note
-### 🚀 - Live Preview Avilable
-### 📴 - Live Preview Not Avilable At That Time
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" width="50%">
+</div>
 
 ---
 
-## More Projects on my [portfolio](https://manishpatel.netlify.app/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-maneeshk&show_icons=true&locale=en&layout=compact" alt="its-maneeshk" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h2>❤️ Let's Build Something Great Together!</h2>
+        <p>💡 "The best way to predict the future is to create it."</p>
+        <p>🔗 Follow my work: <a href="https://github.com/its-maneeshk">GitHub</a></p>
+        <p>📩 Want to collaborate? Reach out to me anytime!</p>
+      </td>
+      <td width="50%" valign="top">
+        <h2>🌎 Let's Connect & Collaborate!</h2>
+        <p>🔗 Find me on:</p>
+        <p>
+          <a href="mailto:maneeshkurmii@gmail.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white"></a>
+          <a href="https://twitter.com/its_maneeshk/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+          <a href="https://linkedin.com/in/itsmaneeshk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="https://manishpatel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=web&logoColor=white"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Tech Stack 🧑‍💻
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-
-
-### Learning.. 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-<p align="right"><a href="#top">Go to top</a></p>
-
-  ### Feel free to contribute to any of the project listed above: 🎱
-  **Daily dosage of joke**
-  
- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
-  
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> | 
-  <a href="mailto:maneeshkurmii@gmail.com">Email Me</a> | 
-  <a href="https://www.linkedin.com/in/itsmaneeshk/" target="_blank">LinkedIn</a>
+<p align="right">
+  🔝 <a href="#top">Back to Top</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java" alt="Java Badge">
-  <img src="https://img.shields.io/badge/Tool-Git-orange?style=flat-square&logo=git" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Project-Open%20Source-brightgreen?style=flat-square" alt="Open Source Badge">
+  Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a>
 </p>
 
-<p align="center">
-  🚀 Follow my work at <a href="https://github.com/its-maneeshk" target="_blank">GitHub</a> and let's build something amazing together!
-</p>
-
+</div>
