@@ -89,7 +89,7 @@
         <p>🔗 Find me on:</p>
         <p>
           <a href="mailto:maneeshkurmii@gmail.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white"></a>
-          <a href="https://twitter.com/its_maneeshk/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+          <a href="https://x.com/its_maneeshk_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
           <a href="https://linkedin.com/in/itsmaneeshk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
           <a href="https://manishpatel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=web&logoColor=white"></a>
         </p>
