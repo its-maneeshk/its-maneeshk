@@ -33,4 +33,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&locale=en" alt="its-maneeshk" /></p>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=tokyonight&cache_seconds=3600)
+
+
 
