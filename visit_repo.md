@@ -18,7 +18,7 @@ Projects focusing on UI/UX and web development.
   </tr>
   <tr>
     <td><b>Mine Portfolio</b></td>
-    <td>✅ <a href="https://manishpatel.netlify.app/">View</a></td>
+    <td>✅ <a href="https://www.manishpatel.com.np/">View</a></td>
     <td><a href="https://github.com/its-maneeshk">GitHub</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Complete applications with frontend and backend integration.
   <tr>
     <td><b>e-Book Web App</b></td>
     <td>❌ Not Available</td>
-    <td><a href="https://github.com/its-maneeshk/e-Book.git">GitHub</a></td>
+    <td><a href="https://e-book-bcop.onrender.com/">GitHub</a></td>
   </tr>
   <tr>
     <td><b>Calculator - Java</b></td>
