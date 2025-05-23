@@ -53,9 +53,14 @@ Complete applications with frontend and backend integration.
     <th>📂 Repository</th>
   </tr>
   <tr>
+    <td><b>Fraud Filter - Fake Product Detection System</b></td>
+    <td>✅ <a href="https://fake-product-detection-system.vercel.app/">View</a></td>
+    <td><a href="https://github.com/its-maneeshk/Fake-Product-Detection-System">GitHub</a></td>
+  </tr>
+  <tr>
     <td><b>e-Book Web App</b></td>
-    <td>❌ Not Available</td>
-    <td><a href="https://e-book-bcop.onrender.com/">GitHub</a></td>
+    <td>✅ <a href="https://e-book-bcop.onrender.com/">View</a></td>
+    <td><a href="https://github.com/its-maneeshk/e-Book">GitHub</a></td>
   </tr>
   <tr>
     <td><b>Calculator - Java</b></td>
