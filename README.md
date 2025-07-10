@@ -100,5 +100,5 @@
 
 ##
 <p align="center">
-  🚀 Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> • <a href="https://manishpatel.netlify.app/">Portfolio</a>
+  🚀 Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> • <a href="https://www.manishpatel.com.np/">Portfolio</a>
 </p>
