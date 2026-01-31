@@ -4,79 +4,86 @@
 
 <div align="center">
 
-# Manish Patel
+# Manish Kumar Patel
 ### Full-Stack Developer | UI/UX Enthusiast | Machine Learning Explorer
 
-Building clean, scalable, and maintainable web applications with React, Tailwind CSS, Node.js, and Python.  
+Building clean, scalable, and maintainable web applications using React, Tailwind CSS, Node.js, and Python.  
 Focused on delivering practical solutions and improving user experiences through code.
 
- *"Code is like humor. When you have to explain it, it’s bad."* - Cory House  
 </div>
 
 ---
 
 ## Selected Projects
 
-Curated collection of projects demonstrating frontend, full-stack, and AI/ML capabilities.
+Curated collection of projects demonstrating frontend, full-stack, and AI/ML capabilities. Each project highlights real-world applications and technologies used.
 
-### Frontend
+### Frontend Projects
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|------|
-| Portfolio Website | Personal portfolio highlighting projects and skills | React, Tailwind CSS | [Live](https://www.manishpatel.com.np) · [Repo](https://github.com/its-maneeshk/manishpatel-portfolio-website) |
-| React Dashboard Application | Interactive dashboard with routing, global state, and API integration | React, Redux, Tailwind CSS | [Repo](https://github.com/its-maneeshk/React-Dashboard-Application) |
-| Task Tracker | Lightweight task management app with mock API | React, Hooks, Tailwind CSS | [Repo](https://github.com/its-maneeshk/Task-Tracker-Tech-Jar-) |
+| Portfolio Website | Personal portfolio highlighting projects, skills, and interactive features | React, Tailwind CSS | [Live](https://www.manishpatel.com.np) · [Repo](https://github.com/its-maneeshk/manishpatel-portfolio-website) |
+| React Dashboard Application | Interactive dashboard with routing, global state management, and API integration | React, Redux, Tailwind CSS | [Repo](https://github.com/its-maneeshk/React-Dashboard-Application) |
+| Task Tracker | Mini task management app with mock API integration and responsive design | React, Hooks, Tailwind CSS | [Repo](https://github.com/its-maneeshk/Task-Tracker-Tech-Jar-) |
 
-### Full-Stack
+### Full-Stack Projects
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|------|
-| Fraud Filter | Fake product review detection using ML | React, Flask, Scikit-learn, MongoDB | [Live](https://fake-product-detection-system.vercel.app) · [Repo](https://github.com/its-maneeshk/Fake-Product-Detection-System) |
-| TrackMyFunds | Personal finance dashboard with authentication and persistent storage | React, Node.js, Express, MongoDB | [Repo](https://github.com/its-maneeshk/TrackMyFunds-Personal_Finance_Dashboard) |
-| e-Book Web App | Platform for browsing and managing digital books | Django, HTML, CSS | [Live](https://e-book-bcop.onrender.com) · [Repo](https://github.com/its-maneeshk/e-Book) |
+| Fraud Filter - Fake Product Detection System | ML-powered system to detect fake reviews on eCommerce platforms | React, Flask, Scikit-learn, MongoDB | [Live](https://fake-product-detection-system.vercel.app) · [Repo](https://github.com/its-maneeshk/Fake-Product-Detection-System) |
+| TrackMyFunds | Personal finance dashboard with authentication, expense tracking, and persistent storage | React, Node.js, Express, MongoDB | [Repo](https://github.com/its-maneeshk/TrackMyFunds-Personal_Finance_Dashboard) |
+| e-Book Web App | Platform for browsing, reading, and managing digital books | Django, HTML, CSS | [Live](https://e-book-bcop.onrender.com) · [Repo](https://github.com/its-maneeshk/e-Book) |
 
-### Backend & Databases
+### Backend & Databases Projects
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|------|
-| readme-md-ai | CLI tool to auto-generate professional README files | Node.js, CLI, Automation | [Repo](https://github.com/its-maneeshk/readme-md-ai) |
-| CommandEcho | Offline AI assistant with voice control and local memory | Python, NLP | [Repo](https://github.com/its-maneeshk/CommandEcho) |
-
+| readme-md-ai | CLI tool to auto-generate professional README files from project metadata | Node.js, CLI, Automation | [Repo](https://github.com/its-maneeshk/readme-md-ai) |
+| CommandEcho | Offline AI assistant with voice control and local memory management | Python, NLP | [Repo](https://github.com/its-maneeshk/CommandEcho) |
 
 ---
-<b>View more projects</b> >> <kbd><a href="https://github.com/its-maneeshk/its-maneeshk/blob/main/visit_repo.md">Click Here</a></kbd>
+
+**View more projects:** <kbd><a href="https://github.com/its-maneeshk/its-maneeshk/blob/main/visit_repo.md">Click Here</a></kbd>
 
 ---
 
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
-
-
-## GitHub Stats & Fun Zone  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <b>Frontend:</b> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=its-maneeshk&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <b>Backend & Databases:</b> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card"/>
+  <b>Machine Learning & Python:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
+---
 
+## GitHub Stats
 
-##
 <p align="center">
-  🚀 Made with ❤️ by <a href="https://www.instagram.com/its_maneeshk_/" target="_blank">Manish Patel</a> • <a href="https://www.manishpatel.com.np/">Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=its-maneeshk&theme=default&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Connect
+
+Reach out for project collaborations, mentoring, or professional inquiries:
+
+- Email: [maneeshkurmii@gmail.com](mailto:maneeshkurmii@gmail.com)  
+- LinkedIn: [itsmaneeshk](https://linkedin.com/in/its-maneeshk)  
+- Portfolio: [manishpatel.com.np](https://www.manishpatel.com.np)  
+- GitHub: [its-maneeshk](https://github.com/its-maneeshk)
+
+---
+
+<p align="center">
+  🚀 Made with ❤️ by Manish Patel
 </p>
