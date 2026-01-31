@@ -63,14 +63,15 @@ Curated collection of projects demonstrating frontend, full-stack, and AI/ML cap
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-maneeshk&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-maneeshk&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=its-maneeshk&theme=default&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 
+<!-- GitHub Activity Graph -->
+[![Manish's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=its-maneeshk&theme=github-compact)](https://github.com/its-maneeshk)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-maneeshk&theme=dark&hide_border=true)
+</p>
 ---
 
 ## Connect
