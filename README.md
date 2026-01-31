@@ -79,7 +79,7 @@ Curated collection of projects demonstrating frontend, full-stack, and AI/ML cap
 Reach out for project collaborations, mentoring, or professional inquiries:
 
 - Email: [maneeshkurmii@gmail.com](mailto:maneeshkurmii@gmail.com)  
-- LinkedIn: [itsmaneeshk](https://linkedin.com/in/its-maneeshk)  
+- LinkedIn: [itsmaneeshk](https://www.linkedin.com/in/itsmaneeshk/)  
 - Portfolio: [manishpatel.com.np](https://www.manishpatel.com.np)  
 - GitHub: [its-maneeshk](https://github.com/its-maneeshk)
 
