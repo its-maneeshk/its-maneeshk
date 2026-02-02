@@ -86,5 +86,5 @@ Reach out for project collaborations, mentoring, or professional inquiries:
 ---
 
 <p align="center">
-  🚀 Made with ❤️ by Manish Patel
+   Made with ❤️ by Manish Patel
 </p>
